@@ -6,7 +6,6 @@ local RunService = game:GetService("RunService")
 local Lighting = game:GetService("Lighting")
 local HS = game:GetService("HttpService")
 local player = Players.LocalPlayer
-
 -- ------------------------------------------------------------
 -- EARLY CONFIG LOAD (for intro sound setting)
 -- ------------------------------------------------------------
