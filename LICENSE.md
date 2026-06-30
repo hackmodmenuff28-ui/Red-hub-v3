@@ -2039,7 +2039,7 @@ local function buildGui()
         end
     end))
 end
-
+     
 local _savedCfg=nil
 local function loadConfigKeys()
     if not(isfile and isfile("moveeduels.json")) then return end
